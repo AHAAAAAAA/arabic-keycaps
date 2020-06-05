@@ -1,7 +1,9 @@
 # arabic-keycaps
 Monolingual Arabic keycap set design
 
-This is a simple keycap design that centers the Arabic alphabet. There currently exists no other keycaps, both mechanical and standard, that treats Arabic as a primary language (6/5/2020). All "Arabic" keyboards are actually bilingual keyboards that center English as the primary language with Arabic as an afterthought. Such assumptions presume knowledge of English and makes the use of computers difficult for people whose primary language isn't English or who don't even know English in the first place. I'd go as far to say that if someone has a dual-language keyboard, it's more likely the non-English language is their mother tongue which should be centered by default.
+This is a simple keycap design that centers the Arabic alphabet. There currently exists no other keycaps, both mechanical and standard, that treats Arabic as a primary language (6/5/2020). 
+
+My motivation behind creating this is that all existing "Arabic" keyboards are bilingual keyboards that center English as the primary language with Arabic frequently an afterthought. Such assumptions presume knowledge of English and makes the use of computers difficult for people whose primary language isn't English or who don't know English in the first place for no good reason. I'd go as far as saying that if someone has a dual-language keyboard, it's more likely that the non-English language is their mother tongue and should be centered by default. I got this idea after watching several of elder relatives who communicate exclusively in Arabic strain their eyes to type a simple email.
 
 ![top-view](./resources/img/top-view.jpg)
 
